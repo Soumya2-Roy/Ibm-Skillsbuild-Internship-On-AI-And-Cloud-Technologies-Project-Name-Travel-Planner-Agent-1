@@ -293,9 +293,16 @@
 ![image Alt](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship-On-AI-And-Cloud-Technologies-Project-Name-Travel-Planner-Agent-1/blob/main/Screenshot%202025-08-02%20070128.png)
 
 <h1>📄 License</h1>
+<ul>
+<li>
+This project is licensed under the <b>📝 MIT License</b> open for educational, research, and demo purposes with proper attribution
+  
+<li>
   
 [MIT License](https://opensource.org/license/mit)
 
+</li>
+</ul>
 
 
 
