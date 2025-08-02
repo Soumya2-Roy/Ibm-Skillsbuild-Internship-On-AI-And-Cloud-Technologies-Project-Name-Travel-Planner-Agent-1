@@ -19,6 +19,9 @@
   
   <p>🌟 Ultimately, it transforms complex trip logistics into effortless adventures, empowering travelers to focus on making memories rather than managing details.</p>
 </div>
+
+  
+![image Alt](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship-On-AI-And-Cloud-Technologies-Project-Name-Travel-Planner-Agent-1/blob/main/image.jpg)
 <h1>📌 The Challenge</h1>
 <LI>The Travel Planner Agent is an AI-powered assistant designed to simplify and enhance the travel planning experience. This intelligent agent helps users:</LI>
 <UL>
@@ -139,8 +142,10 @@
     <li><b>IBM Cloud Agent Lab</b> – Enables experimentation and testing of AI agent capabilities in the cloud environment.</li>
   </ul>
 
-  
-![image Alt](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship-On-AI-And-Cloud-Technologies-Project-Name-Travel-Planner-Agent-1/blob/main/image.jpg)
+
+
+
+
 ![image Alt](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship-On-AI-And-Cloud-Technologies-Project-Name-Travel-Planner-Agent-1/blob/main/Screenshot%202025-07-31%20084319.png)
 ![image Alt](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship-On-AI-And-Cloud-Technologies-Project-Name-Travel-Planner-Agent-1/blob/main/Screenshot%202025-07-31%20132721.png)
 
