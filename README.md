@@ -292,5 +292,11 @@
 ![image Alt](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship-On-AI-And-Cloud-Technologies-Project-Name-Travel-Planner-Agent-1/blob/main/Screenshot%202025-08-01%20221441.png)
 ![image Alt](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship-On-AI-And-Cloud-Technologies-Project-Name-Travel-Planner-Agent-1/blob/main/Screenshot%202025-08-02%20070128.png)
 
+<h1>📄 License</h1>
+  
 [MIT License](https://opensource.org/license/mit)
+
+
+
+
 [Connect with me on LinkedIn](www.linkedin.com/in/soumya-roy-136135324)
