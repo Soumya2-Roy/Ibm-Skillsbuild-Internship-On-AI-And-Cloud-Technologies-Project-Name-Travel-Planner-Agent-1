@@ -303,11 +303,21 @@
 
 ![image Alt](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship-On-AI-And-Cloud-Technologies-Project-Name-Travel-Planner-Agent-1/blob/main/Screenshot%202025-08-01%20220536.png)
 </ul>
-
+<ul>
+<li>Model Selection.....</li>
+  
 ![image Alt](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship-On-AI-And-Cloud-Technologies-Project-Name-Travel-Planner-Agent-1/blob/main/Screenshot%202025-08-01%20220930.png)
+</ul>
+<ul>
+<b><li>API References after Deployment.....</li></b>
+  
 ![image Alt](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship-On-AI-And-Cloud-Technologies-Project-Name-Travel-Planner-Agent-1/blob/main/Screenshot%202025-08-01%20221441.png)
+</ul>
+<ul>
+<li>Tools Used.....</li>
+  
 ![image Alt](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship-On-AI-And-Cloud-Technologies-Project-Name-Travel-Planner-Agent-1/blob/main/Screenshot%202025-08-02%20070128.png)
-
+</ul>
 <h1>📄 License</h1>
 <ul>
 <li>
