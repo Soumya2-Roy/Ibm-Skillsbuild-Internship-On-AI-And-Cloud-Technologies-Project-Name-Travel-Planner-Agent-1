@@ -294,7 +294,7 @@
 
 <h1>📸 Screenshots: Travel Planner via Agent</h1>
 <ul>
-<li>Agent Instructions.....</li>
+<b><li>Agent Instructions.....</li></b>
   
 ![image Alt](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship-On-AI-And-Cloud-Technologies-Project-Name-Travel-Planner-Agent-1/blob/main/Screenshot%202025-08-01%20215545.png)
 </ul>
