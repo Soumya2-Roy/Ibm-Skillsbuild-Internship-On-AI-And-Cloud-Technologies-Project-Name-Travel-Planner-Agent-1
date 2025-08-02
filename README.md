@@ -303,7 +303,13 @@ This project is licensed under the <b>📝 MIT License</b> open for educational,
 
 </li>
 </ul>
+<h1>💡 AI for Travel | 🧠 NLP & RAG Specialist | ☁️ IBM Cloud & Granite | 📡 Real-Time Data | 🌍 Multi-Channel Deployment</h1>
 
-
-
+<ul>
+<li>
+  
 [Connect with me on LinkedIn](www.linkedin.com/in/soumya-roy-136135324)
+
+ </li> 
+</ul>
+
