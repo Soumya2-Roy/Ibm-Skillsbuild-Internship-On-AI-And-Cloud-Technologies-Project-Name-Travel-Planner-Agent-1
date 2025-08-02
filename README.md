@@ -21,3 +21,4 @@
 ![image Alt]()
 ![image Alt]
 [MIT License](https://opensource.org/license/mit)
+[Connect with me on LinkedIn](www.linkedin.com/in/soumya-roy-136135324)
