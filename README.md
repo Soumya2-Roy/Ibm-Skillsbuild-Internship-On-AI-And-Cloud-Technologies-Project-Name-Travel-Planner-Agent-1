@@ -304,7 +304,7 @@
 ![image Alt](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship-On-AI-And-Cloud-Technologies-Project-Name-Travel-Planner-Agent-1/blob/main/Screenshot%202025-08-01%20220536.png)
 </ul>
 <ul>
-<li>Model Selection.....</li>
+<b><li>Model Selection.....</li></b>
   
 ![image Alt](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship-On-AI-And-Cloud-Technologies-Project-Name-Travel-Planner-Agent-1/blob/main/Screenshot%202025-08-01%20220930.png)
 </ul>
@@ -314,7 +314,7 @@
 ![image Alt](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship-On-AI-And-Cloud-Technologies-Project-Name-Travel-Planner-Agent-1/blob/main/Screenshot%202025-08-01%20221441.png)
 </ul>
 <ul>
-<li>Tools Used.....</li>
+<b><li>Tools Used.....</li></b>
   
 ![image Alt](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship-On-AI-And-Cloud-Technologies-Project-Name-Travel-Planner-Agent-1/blob/main/Screenshot%202025-08-02%20070128.png)
 </ul>
