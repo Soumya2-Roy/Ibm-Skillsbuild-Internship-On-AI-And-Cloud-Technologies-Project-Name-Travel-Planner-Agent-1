@@ -18,7 +18,8 @@
   <p>📲 Equipped with booking management capabilities, real-time alerts for delays or changes, and adaptive itinerary rescheduling on the go, this assistant provides a seamless, stress-free, and highly customized travel experience.</p>
   
   <p>🌟 Ultimately, it transforms complex trip logistics into effortless adventures, empowering travelers to focus on making memories rather than managing details.</p>
-</div>
+</div
+  
 ![image Alt](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship-On-AI-And-Cloud-Technologies-Project-Name-Travel-Planner-Agent-1/blob/main/image.jpg)
 ![image Alt](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship-On-AI-And-Cloud-Technologies-Project-Name-Travel-Planner-Agent-1/blob/main/Screenshot%202025-07-31%20084319.png)
 ![image Alt](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship-On-AI-And-Cloud-Technologies-Project-Name-Travel-Planner-Agent-1/blob/main/Screenshot%202025-07-31%20132721.png)
